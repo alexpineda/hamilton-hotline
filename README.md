@@ -1,8 +1,8 @@
 # Hamilton Hotline
 
-Inspired by GrandmaPartyHotline.com
+Inspired by [Grandma Party Hotline](http://www.grandmapartyhotline.com)
 
-This was part of a DemoCamp Hamilton.
+This was part of a [DemoCamp Hamilton](http://www.softwarehamilton.com/democamp/democamphamilton10/).
 
 I will be updating this to allow for subreddit style hotlines.
 
