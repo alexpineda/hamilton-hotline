@@ -4,8 +4,9 @@ Inspired by [Grandma Party Hotline](http://www.grandmapartyhotline.com)
 
 This was part of a [DemoCamp Hamilton](http://www.softwarehamilton.com/democamp/democamphamilton10/).
 
-I will be updating this to allow for subreddit style hotlines.
+I will push the remainder of the code once I have removed the embedded credentials.
 
-Function: Call a particular phone number and have it listed on the page upon recording completion
+# What does HH do?
+It provides a phone number for an end-user to call. The recording is then listed on the site.
 
 
