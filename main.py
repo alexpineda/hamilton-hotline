@@ -66,9 +66,9 @@ class TwitterHelper():
 #        }
 
 
-#        oauth_consumer_key="cChZNFj6T5R0TigYB9yd1w",
-#        oauth_nonce="ea9ec8429b68d6b77cd5600adbbb0456",
-#        oauth_signature="F1Li3tvehgcraF8DMJ7OyxO4w9Y%3D",
+#        oauth_consumer_key="",
+#        oauth_nonce="",
+#        oauth_signature="",
 #        oauth_signature_method="HMAC-SHA1",
 #        oauth_timestamp="1318467427",
 #        oauth_version="1.0"
